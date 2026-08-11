@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="project-banner.png" alt="Bank Loan Approval Prediction" width="100%">
+</p>
 # 🏦 Bank Loan Approval Prediction
 
 ### Machine Learning Based Loan Eligibility Prediction System
