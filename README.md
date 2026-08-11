@@ -27,6 +27,24 @@ The system provides:
 
 ---
 
+## 🚀 Web Application Demo
+
+The project includes an interactive **Gradio web application** that allows users to enter applicant and financial information and receive a loan approval prediction with an estimated probability.
+
+<p align="center">
+  <img src="app-demo.png" alt="Bank Loan Approval Prediction - Gradio Web Application" width="100%">
+</p>
+
+### ✨ Application Features
+
+- 👤 Applicant information input
+- 💰 Financial information analysis
+- 📊 Loan approval/rejection prediction
+- 📈 Approval probability estimation
+- 🧠 Machine learning based prediction
+- 🖥️ Interactive Gradio interface
+
+---
 ## 🎯 Objectives
 
 - Develop a machine learning model for loan approval prediction.
