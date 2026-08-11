@@ -58,7 +58,6 @@ The project includes an interactive **Gradio web application** that allows users
 
 ## 🧠 Machine Learning Workflow
 
-```text
 Data Collection
       ↓
 Data Cleaning
@@ -76,3 +75,28 @@ Model Evaluation
 Probability Prediction
       ↓
 Interactive Gradio Application
+
+---
+
+## 📊 Model Performance
+
+The trained machine learning model was evaluated on the test dataset using multiple classification metrics.
+
+| Metric | Score |
+|---|---:|
+| 🎯 Accuracy | **83.74%** |
+| 🎯 Precision | **84.95%** |
+| 🔍 Recall | **92.94%** |
+| ⭐ F1 Score | **88.76%** |
+
+### Performance Summary
+
+- **83.74% Accuracy** indicates strong overall prediction performance.
+- **84.95% Precision** shows that most predicted loan approvals were correct.
+- **92.94% Recall** indicates that the model successfully identified most actual approved loan applications.
+- **88.76% F1 Score** demonstrates a strong balance between precision and recall.
+
+
+
+
+
